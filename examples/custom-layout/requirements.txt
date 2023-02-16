@@ -1,3 +1,4 @@
 Flask
 Flask-Admin
 Flask-SQLAlchemy
+werkzeug>=2.2.3 # not directly required, pinned by Snyk to avoid a vulnerability
